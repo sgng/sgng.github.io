@@ -1,3 +1,5 @@
 _site/
 .svn
-.DS_STORE
+_gh_pages
+_public
+public
