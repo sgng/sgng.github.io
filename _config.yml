@@ -1,25 +1,10 @@
-title:            SGNG
-description:      Blog with jekyll
-url:              http://sgng.gthub.io
-signoff:          sugeng tigefa
-disqus_shortname: sgng # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
-
-links:
-  - name:         About
-    url:          /about
-  - name:         Blog
-    url:          http://sgng.gthub.io
-    external:     true
-  - name:         Email
-    url:          mailto:sugeng.tigefa@gmail.com
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/sgng
-    external:     true
-pygments:         true
-permalink:        /articles/:title
-markdown:         rdiscount
-rdiscount:
-  extensions:     [smart]
+title:        SGNG
+tagline:      "Blog with jekyll"
+url:          http://sgng.github.io
+author:
+  name:       "sugeng tigefa"
+  email:      "sugeng.tigefa@gmail.com"
+markdown:     rdiscount
+permalink:    /articles/:title
+pygments:     true
+paginate:     5
