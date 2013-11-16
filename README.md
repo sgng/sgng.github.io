@@ -1,4 +1,6 @@
-# [Hyde](http://andhyde.com)
+# [SGNG](http://sgng.github.io/)
+
+[![Build Status](https://travis-ci.org/sgng/sgng.github.io.png?branch=develop)](https://travis-ci.org/sgng/sgng.github.io)
 
 An elegant open source, mobile-first theme for [Jekyll](https://github.com/mojombo/jekyll). It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.
 
