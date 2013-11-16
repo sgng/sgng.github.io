@@ -1,0 +1,12 @@
+language: ruby
+rvm:
+- 2.0.0
+- 1.9.3
+before_install:
+  - gem update --system
+  - gem --version
+  - bundle install
+install: gem install github-pages --development
+script: "bundle exec jekyll build"
+notifications:
+  email: false
