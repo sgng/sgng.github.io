@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-  teaser:
+  teaser: cloud.png
   thumb:
 date: 2016-08-03T12:20:20+00:00
 ---
