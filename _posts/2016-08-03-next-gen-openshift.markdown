@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Next Gen OpenShift
 modified:
 categories: cloud
