@@ -2,7 +2,7 @@
 layout: post
 title: Next Gen OpenShift
 modified:
-categories: 
+categories: cloud
 excerpt:
 tags: []
 image:
