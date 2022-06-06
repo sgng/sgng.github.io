@@ -4,14 +4,15 @@ repo: sgng.github.io # The name of this repository
 user-agent: sgng
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Gitpod
+    url: https://gitpod.io
+  - name: Logpaste
+    url: https://logpaste.com
+  - name: Rentry
+    url: https://rentry.co
+  - name: Lets Markdown
+    url: https://letsmarkdown.com
+    icon: https://letsmarkdown.com/favicon.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,10 +20,10 @@ status-website:
   cname: sgng.github.io
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  theme: ocean
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Awesome Services Status
+  theme: night
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
