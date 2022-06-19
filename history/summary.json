@@ -40,7 +40,7 @@
     "url": "https://rentry.co",
     "icon": "https://rentry.co/favicon.ico",
     "slug": "rentry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 791,
     "timeMonth": 747,
     "timeYear": 747,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-19": 0
+    }
   },
   {
     "name": "Lets Markdown",
@@ -77,11 +79,11 @@
     "icon": "https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg",
     "slug": "shields-io",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.14%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 493,
     "timeDay": 147,
     "timeWeek": 200,
