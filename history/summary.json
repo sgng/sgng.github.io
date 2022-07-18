@@ -42,19 +42,19 @@
     "url": "https://rentry.co",
     "icon": "https://rentry.co/favicon.ico",
     "slug": "rentry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 726,
-    "timeDay": 774,
-    "timeWeek": 750,
-    "timeMonth": 716,
-    "timeYear": 726,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 769,
+    "timeDay": 1840,
+    "timeWeek": 1019,
+    "timeMonth": 785,
+    "timeYear": 769,
     "dailyMinutesDown": {
-      "2022-07-18": 0
+      "2022-07-18": 7
     }
   },
   {
