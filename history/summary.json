@@ -32,7 +32,7 @@
     "uptimeYear": "99.94%",
     "time": 290,
     "timeDay": 204,
-    "timeWeek": 322,
+    "timeWeek": 318,
     "timeMonth": 312,
     "timeYear": 290,
     "dailyMinutesDown": {
@@ -56,9 +56,9 @@
     "url": "https://rentry.co",
     "icon": "https://rentry.co/favicon.ico",
     "slug": "rentry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.28%",
@@ -68,6 +68,7 @@
     "timeMonth": 1097,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2023-04-20": 0,
       "2023-04-14": 17,
       "2023-04-04": 42,
       "2023-03-14": 854,
