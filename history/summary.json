@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 341,
     "timeDay": 298,
-    "timeWeek": 1189,
-    "timeMonth": 921,
+    "timeWeek": 167,
+    "timeMonth": 702,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2022-08-14": 28
@@ -33,7 +33,7 @@
     "time": 290,
     "timeDay": 189,
     "timeWeek": 278,
-    "timeMonth": 306,
+    "timeMonth": 285,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2023-05-05": 25,
@@ -66,7 +66,7 @@
     "time": 830,
     "timeDay": 550,
     "timeWeek": 752,
-    "timeMonth": 1062,
+    "timeMonth": 763,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2023-04-14": 17,
@@ -119,9 +119,9 @@
     "url": "https://shields.io",
     "icon": "https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg",
     "slug": "shields-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -131,6 +131,7 @@
     "timeMonth": 152,
     "timeYear": 247,
     "dailyMinutesDown": {
+      "2023-05-15": 0,
       "2022-10-28": 108,
       "2022-10-17": 21,
       "2022-07-04": 110,
