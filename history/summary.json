@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 326,
-    "timeDay": 133,
-    "timeWeek": 154,
-    "timeMonth": 182,
+    "timeDay": 155,
+    "timeWeek": 158,
+    "timeMonth": 179,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2022-08-14": 28
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 288,
-    "timeDay": 181,
-    "timeWeek": 262,
-    "timeMonth": 265,
-    "timeYear": 289,
+    "timeDay": 277,
+    "timeWeek": 277,
+    "timeMonth": 266,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2023-05-05": 25,
       "2023-04-09": 18,
@@ -59,17 +59,16 @@
     "slug": "rentry",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "95.68%",
-    "uptimeWeek": "94.68%",
-    "uptimeMonth": "98.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "98.81%",
     "uptimeYear": "99.27%",
-    "time": 830,
-    "timeDay": 2314,
-    "timeWeek": 1239,
-    "timeMonth": 845,
+    "time": 829,
+    "timeDay": 2953,
+    "timeWeek": 1253,
+    "timeMonth": 848,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2023-06-20": 14,
       "2023-06-19": 427,
       "2023-06-18": 96,
       "2023-04-14": 17,
@@ -104,17 +103,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 859,
-    "timeDay": 845,
+    "timeDay": 786,
     "timeWeek": 787,
-    "timeMonth": 922,
+    "timeMonth": 914,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2022-11-14": 30,
       "2022-07-02": 18,
       "2022-07-01": 18,
       "2022-06-29": 44,
-      "2022-06-26": 69,
-      "2022-06-21": 41
+      "2022-06-26": 69
     }
   },
   {
@@ -129,9 +127,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
     "time": 232,
-    "timeDay": 49,
-    "timeWeek": 177,
-    "timeMonth": 157,
+    "timeDay": 153,
+    "timeWeek": 163,
+    "timeMonth": 158,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-06-05": 25,
@@ -143,8 +141,7 @@
       "2022-07-02": 18,
       "2022-07-01": 18,
       "2022-06-30": 23,
-      "2022-06-29": 44,
-      "2022-06-21": 27
+      "2022-06-29": 44
     }
   }
 ]
