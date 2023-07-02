@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 345,
-    "timeDay": 293,
-    "timeWeek": 169,
-    "timeMonth": 483,
-    "timeYear": 364,
+    "timeDay": 106,
+    "timeWeek": 156,
+    "timeMonth": 482,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2022-08-14": 28
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 288,
-    "timeDay": 287,
-    "timeWeek": 266,
-    "timeMonth": 274,
-    "timeYear": 288,
+    "timeDay": 354,
+    "timeWeek": 270,
+    "timeMonth": 275,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2023-05-05": 25,
       "2023-04-09": 18,
@@ -48,8 +48,7 @@
       "2022-10-17": 22,
       "2022-09-21": 32,
       "2022-07-29": 32,
-      "2022-07-21": 16,
-      "2022-07-02": 15
+      "2022-07-21": 16
     }
   },
   {
@@ -63,11 +62,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "99.27%",
-    "time": 827,
-    "timeDay": 773,
-    "timeWeek": 749,
-    "timeMonth": 873,
-    "timeYear": 835,
+    "time": 828,
+    "timeDay": 1070,
+    "timeWeek": 783,
+    "timeMonth": 882,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2023-06-19": 427,
       "2023-06-18": 96,
@@ -102,14 +101,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 857,
-    "timeDay": 764,
-    "timeWeek": 754,
-    "timeMonth": 834,
+    "time": 856,
+    "timeDay": 650,
+    "timeWeek": 763,
+    "timeMonth": 824,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2022-11-14": 30,
-      "2022-07-02": 18
+      "2022-11-14": 30
     }
   },
   {
@@ -124,8 +122,8 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
     "time": 229,
-    "timeDay": 71,
-    "timeWeek": 103,
+    "timeDay": 107,
+    "timeWeek": 92,
     "timeMonth": 146,
     "timeYear": 221,
     "dailyMinutesDown": {
@@ -135,8 +133,7 @@
       "2022-10-28": 108,
       "2022-10-17": 21,
       "2022-07-04": 110,
-      "2022-07-03": 18,
-      "2022-07-02": 18
+      "2022-07-03": 18
     }
   }
 ]
