@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 337,
-    "timeDay": 97,
-    "timeWeek": 163,
-    "timeMonth": 476,
-    "timeYear": 365,
+    "timeDay": 218,
+    "timeWeek": 172,
+    "timeMonth": 478,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2022-08-14": 28
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 288,
-    "timeDay": 169,
-    "timeWeek": 275,
-    "timeMonth": 295,
+    "timeDay": 84,
+    "timeWeek": 247,
+    "timeMonth": 289,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2023-05-05": 25,
@@ -47,8 +47,7 @@
       "2023-01-20": 11,
       "2022-10-17": 22,
       "2022-09-21": 32,
-      "2022-07-29": 32,
-      "2022-07-21": 16
+      "2022-07-29": 32
     }
   },
   {
@@ -57,15 +56,15 @@
     "icon": "https://rentry.co/favicon.ico",
     "slug": "rentry",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.26%",
-    "time": 824,
-    "timeDay": 518,
-    "timeWeek": 684,
-    "timeMonth": 931,
+    "time": 823,
+    "timeDay": 639,
+    "timeWeek": 672,
+    "timeMonth": 744,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2023-07-09": 16,
@@ -104,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 852,
-    "timeDay": 876,
-    "timeWeek": 803,
-    "timeMonth": 746,
+    "timeDay": 834,
+    "timeWeek": 810,
+    "timeMonth": 748,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2022-11-14": 30
@@ -124,9 +123,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 226,
-    "timeDay": 65,
-    "timeWeek": 125,
-    "timeMonth": 139,
+    "timeDay": 57,
+    "timeWeek": 121,
+    "timeMonth": 135,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2023-07-01": 16,
