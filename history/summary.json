@@ -4,19 +4,19 @@
     "url": "https://gitpod.io",
     "icon": "https://gitpod.io/favicon192.png",
     "slug": "gitpod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 4635,
-    "timeWeek": 1314,
-    "timeMonth": 467,
-    "timeYear": 371,
+    "time": 346,
+    "timeDay": 3133,
+    "timeWeek": 1182,
+    "timeMonth": 457,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2023-08-19": 0
+      "2023-08-19": 23
     }
   },
   {
