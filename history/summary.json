@@ -57,12 +57,12 @@
     "status": "up",
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.28%",
     "time": 823,
     "timeDay": 753,
-    "timeWeek": 1165,
+    "timeWeek": 1281,
     "timeMonth": 870,
     "timeYear": 836,
     "dailyMinutesDown": {
@@ -95,9 +95,9 @@
     "url": "https://letsmarkdown.com",
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -107,6 +107,7 @@
     "timeMonth": 765,
     "timeYear": 853,
     "dailyMinutesDown": {
+      "2023-08-28": 0,
       "2022-11-14": 30
     }
   },
