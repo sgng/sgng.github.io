@@ -82,9 +82,9 @@
     "url": "https://letsmarkdown.com",
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
-    "status": "up",
-    "uptime": "69.13%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "69.15%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "37.59%",
@@ -94,6 +94,7 @@
     "timeMonth": 323,
     "timeYear": 699,
     "dailyMinutesDown": {
+      "2024-06-14": 0,
       "2024-05-14": 148,
       "2024-04-19": 1184,
       "2024-04-18": 1440,
@@ -333,9 +334,9 @@
     "slug": "shields-io",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 102,
@@ -343,7 +344,6 @@
     "timeMonth": 199,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-06-14": 7,
       "2023-07-01": 16
     }
   }
