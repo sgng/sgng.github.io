@@ -331,19 +331,19 @@
     "url": "https://shields.io",
     "icon": "https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg",
     "slug": "shields-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 127,
-    "timeWeek": 165,
-    "timeMonth": 203,
-    "timeYear": 269,
+    "timeDay": 102,
+    "timeWeek": 152,
+    "timeMonth": 199,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-06-14": 0,
+      "2024-06-14": 7,
       "2023-07-01": 16
     }
   }
