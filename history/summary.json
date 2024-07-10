@@ -24,11 +24,11 @@
     "url": "https://logpaste.com",
     "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Clipboard-Plan-48.png",
     "slug": "logpaste",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 240,
     "timeDay": 265,
@@ -36,7 +36,7 @@
     "timeMonth": 256,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-07-10": 0,
+      "2024-07-10": 7,
       "2024-04-29": 16
     }
   },
@@ -83,7 +83,7 @@
     "uptime": "66.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.24%",
+    "uptimeMonth": "14.23%",
     "uptimeYear": "30.44%",
     "time": 785,
     "timeDay": 0,
@@ -91,7 +91,7 @@
     "timeMonth": 994,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2024-07-10": 1305,
+      "2024-07-10": 1312,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
