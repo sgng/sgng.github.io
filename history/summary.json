@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 217,
-    "timeWeek": 274,
-    "timeMonth": 250,
+    "timeDay": 253,
+    "timeWeek": 267,
+    "timeMonth": 251,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 233,
-    "timeDay": 360,
+    "timeDay": 228,
     "timeWeek": 175,
-    "timeMonth": 227,
-    "timeYear": 221,
+    "timeMonth": 231,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2024-09-01": 52,
       "2024-08-14": 16,
@@ -51,14 +51,14 @@
     "status": "up",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.20%",
+    "uptimeWeek": "95.24%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "99.42%",
-    "time": 751,
-    "timeDay": 412,
-    "timeWeek": 208,
-    "timeMonth": 212,
-    "timeYear": 698,
+    "time": 750,
+    "timeDay": 294,
+    "timeWeek": 257,
+    "timeMonth": 215,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2024-10-12": 548,
       "2024-10-11": 641,
@@ -81,7 +81,7 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "down",
-    "uptime": "59.13%",
+    "uptime": "59.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -92,7 +92,8 @@
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2024-10-18": 69,
+      "2024-10-19": 68,
+      "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -401,8 +402,7 @@
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
-      "2023-10-21": 1440,
-      "2023-10-20": 1440
+      "2023-10-21": 1440
     }
   },
   {
@@ -417,10 +417,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 238,
-    "timeWeek": 275,
-    "timeMonth": 191,
-    "timeYear": 281,
+    "timeDay": 71,
+    "timeWeek": 247,
+    "timeMonth": 192,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2024-09-01": 33
     }
