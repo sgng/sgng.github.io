@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2024-11-19": 636,
+      "2024-11-19": 653,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
@@ -410,19 +410,19 @@
     "url": "https://shields.io",
     "icon": "https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg",
     "slug": "shields-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 279,
-    "timeDay": 7932,
-    "timeWeek": 2113,
-    "timeMonth": 649,
-    "timeYear": 323,
+    "timeDay": 5313,
+    "timeWeek": 1887,
+    "timeMonth": 632,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2024-11-19": 0,
+      "2024-11-19": 17,
       "2024-09-01": 33
     }
   }
