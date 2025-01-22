@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 357,
-    "timeWeek": 253,
+    "timeDay": 310,
+    "timeWeek": 265,
     "timeMonth": 376,
-    "timeYear": 242,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 219,
-    "timeDay": 152,
-    "timeWeek": 151,
-    "timeMonth": 173,
+    "time": 218,
+    "timeDay": 129,
+    "timeWeek": 130,
+    "timeMonth": 174,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2024-09-01": 52,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 599,
-    "timeDay": 287,
-    "timeWeek": 332,
-    "timeMonth": 406,
-    "timeYear": 327,
+    "time": 598,
+    "timeDay": 271,
+    "timeWeek": 258,
+    "timeMonth": 399,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2024-10-12": 548,
       "2024-10-11": 641,
@@ -75,7 +75,7 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "down",
-    "uptime": "53.28%",
+    "uptime": "53.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-01-21": 67,
+      "2025-01-22": 69,
+      "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
@@ -395,8 +396,7 @@
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
-      "2024-01-24": 1440,
-      "2024-01-23": 1440
+      "2024-01-24": 1440
     }
   },
   {
@@ -411,9 +411,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 322,
-    "timeDay": 175,
-    "timeWeek": 199,
-    "timeMonth": 185,
+    "timeDay": 228,
+    "timeWeek": 212,
+    "timeMonth": 190,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2024-11-25": 18,
