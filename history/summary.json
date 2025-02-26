@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 368,
-    "timeWeek": 267,
-    "timeMonth": 259,
-    "timeYear": 249,
+    "time": 236,
+    "timeDay": 569,
+    "timeWeek": 309,
+    "timeMonth": 273,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -25,13 +25,13 @@
     "status": "up",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.91%",
     "time": 237,
-    "timeDay": 154,
-    "timeWeek": 205,
-    "timeMonth": 568,
+    "timeDay": 343,
+    "timeWeek": 189,
+    "timeMonth": 569,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2025-02-18": 20,
@@ -58,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 473,
-    "timeDay": 261,
-    "timeWeek": 311,
-    "timeMonth": 354,
+    "timeDay": 403,
+    "timeWeek": 318,
+    "timeMonth": 350,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2024-10-12": 548,
@@ -76,7 +76,7 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "down",
-    "uptime": "51.40%",
+    "uptime": "51.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -87,7 +87,8 @@
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-02-25": 71,
+      "2025-02-26": 70,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -396,8 +397,7 @@
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
-      "2024-02-28": 1440,
-      "2024-02-27": 1440
+      "2024-02-28": 1440
     }
   },
   {
@@ -412,8 +412,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 381,
-    "timeDay": 232,
-    "timeWeek": 205,
+    "timeDay": 240,
+    "timeWeek": 199,
     "timeMonth": 1013,
     "timeYear": 445,
     "dailyMinutesDown": {
