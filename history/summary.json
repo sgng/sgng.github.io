@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 212,
-    "timeWeek": 190,
+    "timeDay": 229,
+    "timeWeek": 198,
     "timeMonth": 233,
     "timeYear": 251,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 234,
-    "timeDay": 208,
-    "timeWeek": 214,
-    "timeMonth": 209,
+    "timeDay": 354,
+    "timeWeek": 224,
+    "timeMonth": 212,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-02-18": 20,
@@ -58,10 +58,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 432,
-    "timeDay": 420,
-    "timeWeek": 383,
-    "timeMonth": 379,
-    "timeYear": 285,
+    "timeDay": 518,
+    "timeWeek": 403,
+    "timeMonth": 381,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2024-10-12": 548,
       "2024-10-11": 641,
@@ -76,7 +76,7 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "down",
-    "uptime": "49.51%",
+    "uptime": "49.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -87,7 +87,8 @@
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-04-04": 74,
+      "2025-04-05": 73,
+      "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -396,8 +397,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -412,8 +412,8 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.96%",
     "time": 521,
-    "timeDay": 200,
-    "timeWeek": 4686,
+    "timeDay": 76,
+    "timeWeek": 4681,
     "timeMonth": 1906,
     "timeYear": 616,
     "dailyMinutesDown": {
