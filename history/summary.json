@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 274,
-    "timeWeek": 251,
+    "timeDay": 231,
+    "timeWeek": 245,
     "timeMonth": 260,
     "timeYear": 263,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 240,
-    "timeDay": 150,
-    "timeWeek": 137,
-    "timeMonth": 177,
+    "timeDay": 319,
+    "timeWeek": 159,
+    "timeMonth": 178,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2025-05-19": 20,
@@ -61,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 333,
-    "timeDay": 500,
-    "timeWeek": 369,
-    "timeMonth": 784,
-    "timeYear": 374,
+    "timeDay": 436,
+    "timeWeek": 388,
+    "timeMonth": 788,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2025-05-31": 32,
       "2024-10-12": 548,
@@ -77,7 +77,7 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "down",
-    "uptime": "44.43%",
+    "uptime": "44.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -88,7 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 88,
+      "2025-08-01": 107,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -451,8 +452,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -467,9 +467,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 517,
-    "timeDay": 280,
-    "timeWeek": 216,
-    "timeMonth": 185,
+    "timeDay": 189,
+    "timeWeek": 229,
+    "timeMonth": 178,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2025-03-30": 144,
