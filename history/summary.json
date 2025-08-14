@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 244,
-    "timeWeek": 268,
-    "timeMonth": 252,
-    "timeYear": 263,
+    "timeDay": 201,
+    "timeWeek": 262,
+    "timeMonth": 249,
+    "timeYear": 262,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 242,
-    "timeDay": 247,
-    "timeWeek": 240,
-    "timeMonth": 198,
+    "timeDay": 181,
+    "timeWeek": 218,
+    "timeMonth": 199,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2025-05-19": 20,
@@ -42,8 +42,7 @@
       "2025-02-18": 20,
       "2025-02-16": 241,
       "2025-01-31": 20,
-      "2024-09-01": 52,
-      "2024-08-14": 16
+      "2024-09-01": 52
     }
   },
   {
@@ -53,17 +52,16 @@
     "slug": "rentry",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 338,
-    "timeDay": 245,
-    "timeWeek": 310,
-    "timeMonth": 354,
+    "timeDay": 259,
+    "timeWeek": 320,
+    "timeMonth": 356,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2025-08-13": 9,
       "2025-05-31": 32,
       "2024-10-12": 548,
       "2024-10-11": 641
@@ -75,7 +73,7 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "down",
-    "uptime": "43.91%",
+    "uptime": "43.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -86,7 +84,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 1178,
+      "2025-08-14": 83,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -449,8 +448,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -464,11 +462,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 517,
-    "timeDay": 213,
-    "timeWeek": 175,
-    "timeMonth": 183,
-    "timeYear": 522,
+    "time": 459,
+    "timeDay": 143,
+    "timeWeek": 185,
+    "timeMonth": 181,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2025-03-30": 144,
       "2025-02-07": 19,
