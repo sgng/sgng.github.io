@@ -4,7 +4,7 @@
     "url": "https://gitpod.io",
     "icon": "https://gitpod.io/favicon192.png",
     "slug": "gitpod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 265,
     "timeMonth": 254,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-26": 0
+    }
   },
   {
     "name": "Logpaste",
@@ -26,7 +28,7 @@
     "uptime": "91.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "25.35%",
+    "uptimeMonth": "27.39%",
     "uptimeYear": "70.27%",
     "time": 247,
     "timeDay": 188,
@@ -180,14 +182,14 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "up",
-    "uptime": "45.18%",
+    "uptime": "45.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "24.53%",
+    "uptimeYear": "24.70%",
     "time": 174,
     "timeDay": 205,
-    "timeWeek": 203,
+    "timeWeek": 217,
     "timeMonth": 160,
     "timeYear": 174,
     "dailyMinutesDown": {
