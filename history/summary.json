@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 342,
-    "timeWeek": 224,
-    "timeMonth": 188,
+    "timeDay": 129,
+    "timeWeek": 223,
+    "timeMonth": 186,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2026-01-26": 24
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "70.32%",
     "time": 256,
-    "timeDay": 95,
-    "timeWeek": 254,
-    "timeMonth": 263,
-    "timeYear": 235,
+    "timeDay": 188,
+    "timeWeek": 223,
+    "timeMonth": 260,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2026-01-17": 1126,
       "2026-01-16": 1440,
@@ -164,10 +164,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 393,
-    "timeDay": 288,
-    "timeWeek": 339,
-    "timeMonth": 329,
-    "timeYear": 399,
+    "timeDay": 255,
+    "timeWeek": 309,
+    "timeMonth": 326,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2026-03-13": 29,
       "2025-11-18": 126,
@@ -180,15 +180,15 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "up",
-    "uptime": "47.56%",
+    "uptime": "47.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "41.13%",
+    "uptimeYear": "41.41%",
     "time": 171,
-    "timeDay": 86,
-    "timeWeek": 174,
-    "timeMonth": 164,
+    "timeDay": 71,
+    "timeWeek": 152,
+    "timeMonth": 161,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2026-03-24": 35,
@@ -427,8 +427,7 @@
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
-      "2025-03-30": 1440,
-      "2025-03-29": 1440
+      "2025-03-30": 1440
     }
   },
   {
@@ -443,10 +442,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 426,
-    "timeDay": 277,
-    "timeWeek": 177,
-    "timeMonth": 139,
-    "timeYear": 432,
+    "timeDay": 67,
+    "timeWeek": 161,
+    "timeMonth": 136,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-03-30": 144
