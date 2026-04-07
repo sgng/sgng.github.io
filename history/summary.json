@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 184,
-    "timeWeek": 187,
+    "time": 250,
+    "timeDay": 141,
+    "timeWeek": 185,
     "timeMonth": 190,
     "timeYear": 240,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Clipboard-Plan-48.png",
     "slug": "logpaste",
     "status": "up",
-    "uptime": "92.21%",
+    "uptime": "92.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.23%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "70.29%",
-    "time": 272,
-    "timeDay": 109,
+    "time": 271,
+    "timeDay": 270,
     "timeWeek": 690,
-    "timeMonth": 389,
-    "timeYear": 251,
+    "timeMonth": 388,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2026-04-03": 50,
       "2026-04-02": 64,
@@ -151,8 +151,7 @@
       "2025-05-19": 20,
       "2025-04-25": 83,
       "2025-04-24": 44,
-      "2025-04-08": 80,
-      "2025-04-07": 1
+      "2025-04-08": 80
     }
   },
   {
@@ -166,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 393,
-    "timeDay": 260,
-    "timeWeek": 317,
-    "timeMonth": 319,
-    "timeYear": 397,
+    "time": 394,
+    "timeDay": 878,
+    "timeWeek": 387,
+    "timeMonth": 336,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2026-03-13": 29,
       "2025-11-18": 126,
@@ -183,15 +182,15 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "up",
-    "uptime": "47.90%",
+    "uptime": "47.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "43.60%",
+    "uptimeYear": "43.87%",
     "time": 169,
-    "timeDay": 90,
-    "timeWeek": 123,
-    "timeMonth": 150,
+    "timeDay": 182,
+    "timeWeek": 133,
+    "timeMonth": 149,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-03-24": 35,
@@ -421,8 +420,7 @@
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
-      "2025-04-08": 1440,
-      "2025-04-07": 1440
+      "2025-04-08": 1440
     }
   },
   {
@@ -436,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 425,
-    "timeDay": 78,
-    "timeWeek": 92,
-    "timeMonth": 129,
-    "timeYear": 254,
+    "time": 426,
+    "timeDay": 428,
+    "timeWeek": 135,
+    "timeMonth": 136,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2025-11-18": 126
     }
