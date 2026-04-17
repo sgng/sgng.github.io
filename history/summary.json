@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 177,
-    "timeWeek": 178,
-    "timeMonth": 187,
+    "timeDay": 201,
+    "timeWeek": 187,
+    "timeMonth": 189,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2026-01-26": 24
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "70.30%",
-    "time": 272,
-    "timeDay": 112,
-    "timeWeek": 232,
-    "timeMonth": 368,
-    "timeYear": 244,
+    "time": 273,
+    "timeDay": 436,
+    "timeWeek": 254,
+    "timeMonth": 374,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2026-04-03": 50,
       "2026-04-02": 64,
@@ -165,10 +165,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 393,
-    "timeDay": 285,
-    "timeWeek": 351,
-    "timeMonth": 348,
-    "timeYear": 398,
+    "timeDay": 420,
+    "timeWeek": 349,
+    "timeMonth": 355,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2026-03-13": 29,
       "2025-11-18": 126,
@@ -181,15 +181,15 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "up",
-    "uptime": "48.27%",
+    "uptime": "48.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "46.34%",
+    "uptimeYear": "46.62%",
     "time": 169,
-    "timeDay": 82,
-    "timeWeek": 173,
-    "timeMonth": 155,
+    "timeDay": 216,
+    "timeWeek": 176,
+    "timeMonth": 158,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-03-24": 35,
@@ -409,8 +409,7 @@
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
-      "2025-04-18": 1440,
-      "2025-04-17": 1440
+      "2025-04-18": 1440
     }
   },
   {
@@ -425,9 +424,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 426,
-    "timeDay": 105,
-    "timeWeek": 133,
-    "timeMonth": 140,
+    "timeDay": 195,
+    "timeWeek": 135,
+    "timeMonth": 141,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-11-18": 126
