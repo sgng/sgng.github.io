@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 201,
-    "timeWeek": 187,
-    "timeMonth": 189,
+    "timeDay": 163,
+    "timeWeek": 183,
+    "timeMonth": 190,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2026-01-26": 24
@@ -25,15 +25,15 @@
     "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Clipboard-Plan-48.png",
     "slug": "logpaste",
     "status": "up",
-    "uptime": "92.27%",
+    "uptime": "92.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "70.30%",
     "time": 273,
-    "timeDay": 436,
-    "timeWeek": 254,
-    "timeMonth": 374,
+    "timeDay": 151,
+    "timeWeek": 237,
+    "timeMonth": 368,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2026-04-03": 50,
@@ -165,9 +165,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 393,
-    "timeDay": 420,
-    "timeWeek": 349,
-    "timeMonth": 355,
+    "timeDay": 275,
+    "timeWeek": 326,
+    "timeMonth": 351,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2026-03-13": 29,
@@ -181,15 +181,15 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "up",
-    "uptime": "48.30%",
+    "uptime": "48.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "46.62%",
+    "uptimeYear": "46.89%",
     "time": 169,
-    "timeDay": 216,
-    "timeWeek": 176,
-    "timeMonth": 158,
+    "timeDay": 132,
+    "timeWeek": 161,
+    "timeMonth": 154,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-03-24": 35,
@@ -408,8 +408,7 @@
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
-      "2025-04-19": 1440,
-      "2025-04-18": 1440
+      "2025-04-19": 1440
     }
   },
   {
@@ -424,10 +423,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 426,
-    "timeDay": 195,
-    "timeWeek": 135,
-    "timeMonth": 141,
-    "timeYear": 254,
+    "timeDay": 75,
+    "timeWeek": 119,
+    "timeMonth": 137,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2025-11-18": 126
     }
