@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 181,
-    "timeWeek": 173,
-    "timeMonth": 193,
-    "timeYear": 238,
+    "timeWeek": 170,
+    "timeMonth": 194,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2026-01-26": 24
     }
@@ -25,18 +25,19 @@
     "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Clipboard-Plan-48.png",
     "slug": "logpaste",
     "status": "down",
-    "uptime": "92.11%",
+    "uptime": "92.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.79%",
-    "uptimeMonth": "90.57%",
-    "uptimeYear": "69.55%",
+    "uptimeWeek": "46.50%",
+    "uptimeMonth": "87.28%",
+    "uptimeYear": "69.28%",
     "time": 274,
     "timeDay": 0,
-    "timeWeek": 267,
-    "timeMonth": 374,
-    "timeYear": 244,
+    "timeWeek": 210,
+    "timeMonth": 378,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2026-04-23": 146,
+      "2026-04-24": 146,
+      "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
       "2026-04-20": 926,
@@ -153,8 +154,7 @@
       "2025-10-02": 1440,
       "2025-10-01": 547,
       "2025-05-19": 20,
-      "2025-04-25": 83,
-      "2025-04-24": 44
+      "2025-04-25": 83
     }
   },
   {
@@ -169,8 +169,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 392,
-    "timeDay": 405,
-    "timeWeek": 359,
+    "timeDay": 294,
+    "timeWeek": 341,
     "timeMonth": 347,
     "timeYear": 397,
     "dailyMinutesDown": {
@@ -185,18 +185,19 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "down",
-    "uptime": "48.46%",
-    "uptimeDay": "7.96%",
-    "uptimeWeek": "86.85%",
-    "uptimeMonth": "96.90%",
+    "uptime": "48.42%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "72.56%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "48.01%",
     "time": 169,
     "timeDay": 0,
-    "timeWeek": 177,
-    "timeMonth": 149,
+    "timeWeek": 169,
+    "timeMonth": 147,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2026-04-23": 146,
+      "2026-04-24": 146,
+      "2026-04-23": 1440,
       "2026-04-22": 1180,
       "2026-03-24": 35,
       "2026-03-15": 66,
@@ -408,8 +409,7 @@
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
-      "2025-04-25": 1440,
-      "2025-04-24": 1440
+      "2025-04-25": 1440
     }
   },
   {
@@ -424,10 +424,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 425,
-    "timeDay": 151,
-    "timeWeek": 121,
-    "timeMonth": 134,
-    "timeYear": 253,
+    "timeDay": 212,
+    "timeWeek": 124,
+    "timeMonth": 138,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2025-11-18": 126
     }
