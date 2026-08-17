@@ -227,17 +227,17 @@
     "url": "https://letsmarkdown.com",
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
-    "status": "down",
-    "uptime": "49.12%",
-    "uptimeDay": "85.55%",
-    "uptimeWeek": "93.84%",
-    "uptimeMonth": "98.21%",
+    "status": "up",
+    "uptime": "49.11%",
+    "uptimeDay": "80.70%",
+    "uptimeWeek": "93.15%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "66.26%",
-    "time": 1887,
-    "timeDay": 29089,
-    "timeWeek": 17275,
-    "timeMonth": 9828,
-    "timeYear": 1887,
+    "time": 1888,
+    "timeDay": 25248,
+    "timeWeek": 16557,
+    "timeMonth": 9672,
+    "timeYear": 1888,
     "dailyMinutesDown": {
       "2025-10-28": 334,
       "2025-10-27": 1440,
@@ -393,7 +393,7 @@
       "2026-07-27": 102,
       "2026-08-12": 147,
       "2026-08-14": 266,
-      "2026-08-17": 208
+      "2026-08-17": 278
     }
   },
   {
