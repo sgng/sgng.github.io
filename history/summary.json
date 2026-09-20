@@ -24,9 +24,9 @@
     "url": "https://logpaste.com",
     "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Clipboard-Plan-48.png",
     "slug": "logpaste",
-    "status": "up",
-    "uptime": "90.00%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "90.01%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "57.29%",
@@ -198,7 +198,8 @@
       "2026-07-02": 925,
       "2026-07-01": 505,
       "2026-08-12": 40,
-      "2026-08-19": 40
+      "2026-08-19": 40,
+      "2026-09-20": 0
     }
   },
   {
@@ -229,11 +230,11 @@
     "icon": "https://letsmarkdown.com/favicon.svg",
     "slug": "lets-markdown",
     "status": "up",
-    "uptime": "49.98%",
+    "uptime": "50.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.78%",
-    "uptimeYear": "74.46%",
+    "uptimeYear": "74.67%",
     "time": 2951,
     "timeDay": 1384,
     "timeWeek": 1449,
